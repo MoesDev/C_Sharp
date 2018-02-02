@@ -1,0 +1,10 @@
+C:\Users\Monet\RepoKracken\fundamentals_1\obj\Debug\netcoreapp2.0\fundamentals_1.csproj.CoreCompileInputs.cache
+C:\Users\Monet\RepoKracken\fundamentals_1\obj\Debug\netcoreapp2.0\fundamentals_1.AssemblyInfoInputs.cache
+C:\Users\Monet\RepoKracken\fundamentals_1\obj\Debug\netcoreapp2.0\fundamentals_1.AssemblyInfo.cs
+C:\Users\Monet\RepoKracken\fundamentals_1\bin\Debug\netcoreapp2.0\fundamentals_1.deps.json
+C:\Users\Monet\RepoKracken\fundamentals_1\bin\Debug\netcoreapp2.0\fundamentals_1.runtimeconfig.json
+C:\Users\Monet\RepoKracken\fundamentals_1\bin\Debug\netcoreapp2.0\fundamentals_1.runtimeconfig.dev.json
+C:\Users\Monet\RepoKracken\fundamentals_1\bin\Debug\netcoreapp2.0\fundamentals_1.dll
+C:\Users\Monet\RepoKracken\fundamentals_1\bin\Debug\netcoreapp2.0\fundamentals_1.pdb
+C:\Users\Monet\RepoKracken\fundamentals_1\obj\Debug\netcoreapp2.0\fundamentals_1.dll
+C:\Users\Monet\RepoKracken\fundamentals_1\obj\Debug\netcoreapp2.0\fundamentals_1.pdb
