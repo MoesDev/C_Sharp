@@ -1,0 +1,10 @@
+C:\Users\Monet\C_Sharp\boxUnboxList\bin\Debug\netcoreapp2.0\boxUnboxList.deps.json
+C:\Users\Monet\C_Sharp\boxUnboxList\bin\Debug\netcoreapp2.0\boxUnboxList.runtimeconfig.json
+C:\Users\Monet\C_Sharp\boxUnboxList\bin\Debug\netcoreapp2.0\boxUnboxList.runtimeconfig.dev.json
+C:\Users\Monet\C_Sharp\boxUnboxList\bin\Debug\netcoreapp2.0\boxUnboxList.dll
+C:\Users\Monet\C_Sharp\boxUnboxList\bin\Debug\netcoreapp2.0\boxUnboxList.pdb
+C:\Users\Monet\C_Sharp\boxUnboxList\obj\Debug\netcoreapp2.0\boxUnboxList.csproj.CoreCompileInputs.cache
+C:\Users\Monet\C_Sharp\boxUnboxList\obj\Debug\netcoreapp2.0\boxUnboxList.AssemblyInfoInputs.cache
+C:\Users\Monet\C_Sharp\boxUnboxList\obj\Debug\netcoreapp2.0\boxUnboxList.AssemblyInfo.cs
+C:\Users\Monet\C_Sharp\boxUnboxList\obj\Debug\netcoreapp2.0\boxUnboxList.dll
+C:\Users\Monet\C_Sharp\boxUnboxList\obj\Debug\netcoreapp2.0\boxUnboxList.pdb
