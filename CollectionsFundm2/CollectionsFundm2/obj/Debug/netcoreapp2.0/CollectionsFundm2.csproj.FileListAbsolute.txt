@@ -1,0 +1,10 @@
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\obj\Debug\netcoreapp2.0\CollectionsFundm2.csproj.CoreCompileInputs.cache
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\obj\Debug\netcoreapp2.0\CollectionsFundm2.AssemblyInfoInputs.cache
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\obj\Debug\netcoreapp2.0\CollectionsFundm2.AssemblyInfo.cs
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\bin\Debug\netcoreapp2.0\CollectionsFundm2.deps.json
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\bin\Debug\netcoreapp2.0\CollectionsFundm2.runtimeconfig.json
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\bin\Debug\netcoreapp2.0\CollectionsFundm2.runtimeconfig.dev.json
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\bin\Debug\netcoreapp2.0\CollectionsFundm2.dll
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\bin\Debug\netcoreapp2.0\CollectionsFundm2.pdb
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\obj\Debug\netcoreapp2.0\CollectionsFundm2.dll
+C:\Users\Monet\RepoKracken\CoderDojo\CollectionsFundm2\CollectionsFundm2\obj\Debug\netcoreapp2.0\CollectionsFundm2.pdb
