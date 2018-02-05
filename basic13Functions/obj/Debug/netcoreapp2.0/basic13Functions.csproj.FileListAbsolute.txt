@@ -1,0 +1,10 @@
+C:\Users\Monet\C_Sharp\basic13Functions\bin\Debug\netcoreapp2.0\basic13Functions.deps.json
+C:\Users\Monet\C_Sharp\basic13Functions\bin\Debug\netcoreapp2.0\basic13Functions.runtimeconfig.json
+C:\Users\Monet\C_Sharp\basic13Functions\bin\Debug\netcoreapp2.0\basic13Functions.runtimeconfig.dev.json
+C:\Users\Monet\C_Sharp\basic13Functions\bin\Debug\netcoreapp2.0\basic13Functions.dll
+C:\Users\Monet\C_Sharp\basic13Functions\bin\Debug\netcoreapp2.0\basic13Functions.pdb
+C:\Users\Monet\C_Sharp\basic13Functions\obj\Debug\netcoreapp2.0\basic13Functions.csproj.CoreCompileInputs.cache
+C:\Users\Monet\C_Sharp\basic13Functions\obj\Debug\netcoreapp2.0\basic13Functions.AssemblyInfoInputs.cache
+C:\Users\Monet\C_Sharp\basic13Functions\obj\Debug\netcoreapp2.0\basic13Functions.AssemblyInfo.cs
+C:\Users\Monet\C_Sharp\basic13Functions\obj\Debug\netcoreapp2.0\basic13Functions.dll
+C:\Users\Monet\C_Sharp\basic13Functions\obj\Debug\netcoreapp2.0\basic13Functions.pdb
