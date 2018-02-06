@@ -670,15 +670,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monet\\C_Sharp\\first_csharp\\first_csharp.csproj",
-      "projectName": "first_csharp",
-      "projectPath": "C:\\Users\\Monet\\C_Sharp\\first_csharp\\first_csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Monet\\C_Sharp\\Puzzles\\Puzzles.csproj",
+      "projectName": "Puzzles",
+      "projectPath": "C:\\Users\\Monet\\C_Sharp\\Puzzles\\Puzzles.csproj",
       "packagesPath": "C:\\Users\\Monet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monet\\C_Sharp\\first_csharp\\obj\\",
+      "outputPath": "C:\\Users\\Monet\\C_Sharp\\Puzzles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
