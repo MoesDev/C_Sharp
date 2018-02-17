@@ -1,0 +1,10 @@
+C:\Users\Monet\C_Sharp\vehicle\bin\Debug\netcoreapp2.0\vehicle.deps.json
+C:\Users\Monet\C_Sharp\vehicle\bin\Debug\netcoreapp2.0\vehicle.runtimeconfig.json
+C:\Users\Monet\C_Sharp\vehicle\bin\Debug\netcoreapp2.0\vehicle.runtimeconfig.dev.json
+C:\Users\Monet\C_Sharp\vehicle\bin\Debug\netcoreapp2.0\vehicle.dll
+C:\Users\Monet\C_Sharp\vehicle\bin\Debug\netcoreapp2.0\vehicle.pdb
+C:\Users\Monet\C_Sharp\vehicle\obj\Debug\netcoreapp2.0\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Monet\C_Sharp\vehicle\obj\Debug\netcoreapp2.0\vehicle.AssemblyInfoInputs.cache
+C:\Users\Monet\C_Sharp\vehicle\obj\Debug\netcoreapp2.0\vehicle.AssemblyInfo.cs
+C:\Users\Monet\C_Sharp\vehicle\obj\Debug\netcoreapp2.0\vehicle.dll
+C:\Users\Monet\C_Sharp\vehicle\obj\Debug\netcoreapp2.0\vehicle.pdb

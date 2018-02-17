@@ -1,0 +1,10 @@
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\obj\Debug\netcoreapp2.0\wizardNinjaSamurai.csproj.CoreCompileInputs.cache
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\obj\Debug\netcoreapp2.0\wizardNinjaSamurai.AssemblyInfoInputs.cache
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\obj\Debug\netcoreapp2.0\wizardNinjaSamurai.AssemblyInfo.cs
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\bin\Debug\netcoreapp2.0\wizardNinjaSamurai.deps.json
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\bin\Debug\netcoreapp2.0\wizardNinjaSamurai.runtimeconfig.json
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\bin\Debug\netcoreapp2.0\wizardNinjaSamurai.runtimeconfig.dev.json
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\bin\Debug\netcoreapp2.0\wizardNinjaSamurai.dll
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\bin\Debug\netcoreapp2.0\wizardNinjaSamurai.pdb
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\obj\Debug\netcoreapp2.0\wizardNinjaSamurai.dll
+C:\Users\Monet\C_Sharp\wizardNinjaSamurai\obj\Debug\netcoreapp2.0\wizardNinjaSamurai.pdb
